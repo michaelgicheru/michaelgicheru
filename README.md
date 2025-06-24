@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋,
 
-<!--
-**michaelgicheru/michaelgicheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michael Gicheru. I am a student actuary.
 
-Here are some ideas to get you started:
+I like blogging about R, Rust, actuarial and data science. You can read my blog [here](https://michaelgicheru.com/). I am particularly interested in applications of R (and increasingly Rust) in actuarial science for stuff such as:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Non-life reserving
+- AI and Machine Learning
+- General automation of actuarial workflows
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgicheru&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelgicheru&theme=default&show_icons=true&hide_border=true&count_private=true)
