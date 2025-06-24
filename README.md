@@ -10,6 +10,4 @@ I like blogging about R, Rust, actuarial and data science. You can read my blog 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgicheru&hide=javascript,html,css,scss,tex,ts,php&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-![michaelgicheru's Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelgicheru&theme=default&hide_border=true)
-
 ![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelgicheru&theme=default&show_icons=true&hide_border=true&count_private=true)
